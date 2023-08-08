@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoThanhDatK16
+- 👋 Hi, I’m @ThanhDat2k2
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI - Artificial Intelligent
 - 💞️ I’m looking to collaborate on github
